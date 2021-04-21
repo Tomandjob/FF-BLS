@@ -13,7 +13,7 @@ Opencv 3
 BroadLearningSystem.py -the broad learning system  
 FF-BLStrain.y -main script to extract the convolution feature, start training and testing  
 Slidewindow-detect.py -Using sliding window and trained FF-BLS model to identify object  
-FF-BLS model -trained models are saved here  
+BLSmodel -trained models are saved here  
 
 # How to run:
 python FF-BLStrain.py #Please modify the dataset load path and model storage path.
