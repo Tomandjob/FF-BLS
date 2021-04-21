@@ -1,5 +1,3 @@
-Created by Yang Zhang
-
 # Introduction：
 Fusion features-based broad learning system (FF-BLS) is a classification network with fast and incremental learning. It contains a convolution module and broad learning. 
 
@@ -18,6 +16,8 @@ BLS-model/ -trained models are saved here
 # How to run:
 python FF-BLStrain.py #Please modify the dataset load path and model storage path.
 
-If there is any question, welcome to discuss here.
+# Author：
+Yang Zhang and Ka-Veng Yuen  
+If there is any question, welcome to discuss here or contact yangzhang@um.edu.mo
 
 
