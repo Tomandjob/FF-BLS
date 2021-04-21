@@ -1,7 +1,7 @@
 Created by Yang Zhang
 
 # Introduction
-Fusion features-based broad learning system (FF-BLS) is a classification algorithm classification network with fast and incremental learning. It contains a convolution module and broad learning. 
+Fusion features-based broad learning system (FF-BLS) is a classification network with fast and incremental learning. It contains a convolution module and broad learning. 
 
 # Requirements:
 Keras 2
