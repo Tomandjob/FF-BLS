@@ -16,6 +16,9 @@ BLS-model/ -trained models are saved here
 # How to run:
 python FF-BLStrain.py #Please modify the dataset load path and model storage path.
 
+# Paper Link:
+Under review
+
 # Author：
 Yang Zhang and Ka-Veng Yuen  
 If there is any question, welcome to discuss here or contact yangzhang@um.edu.mo
