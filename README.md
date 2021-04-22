@@ -3,7 +3,7 @@ Fusion features-based broad learning system (FF-BLS) is a classification network
 
 # Requirements:
 Keras 2  
-Tensorflow (<2.0)  
+Tensorflow 1.15(<2.0)  
 Python 3  
 Opencv 3  
 
