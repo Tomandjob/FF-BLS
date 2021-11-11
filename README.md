@@ -16,11 +16,12 @@ BLS-model/ -trained models are saved here
 # How to run:
 python FF-BLStrain.py #Please modify the dataset load path and model storage path.
 
-# Paper Link:
-Yang Zhang, & Ka-Veng Yuen* (2021). Crack detection using fusion features-based broad learning system and image processing. *Computer-Aided Civil and Infrastructure Engineering*, 1-17. https://doi.org/10.1111/mice.12753
-
 # Author：
 Yang Zhang and Ka-Veng Yuen  
 If there is any question, welcome to discuss here or contact yangzhang@um.edu.mo
 
+# Cite This Project：
+If you use this project in your research, please cite the following paper：
+
+Yang Zhang, & Ka-Veng Yuen* (2021). Crack detection using fusion features-based broad learning system and image processing. *Computer-Aided Civil and Infrastructure Engineering*, 1-17. https://doi.org/10.1111/mice.12753
 
