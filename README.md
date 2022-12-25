@@ -18,7 +18,7 @@ python FF-BLStrain.py #Please modify the dataset load path and model storage pat
 
 # Author：
 Yang Zhang and Ka-Veng Yuen  
-If there is any question, welcome to discuss here or contact yangzhang@um.edu.mo
+If there is any question, welcome to discuss here or contact yangzhangdr@126.com
 
 # Cite This Project：
 If you use this project in your research, please cite the following paper：
